@@ -2,7 +2,7 @@ package cuentas.clientes;
 
 public class Main {
 
-    //probando //
+    //probando ///
     public static void main(String[] args) {
         Cuenta cuenta1;
         double saldoActual;
